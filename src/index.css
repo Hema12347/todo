@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.btn {
+  cursor: pointer;
+}
+.todo{
+  max-width: 80px;
+  border-radius: 50px;
+ 
+}
+.header {
+  background-color:cornflowerblue;
+}
